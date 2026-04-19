@@ -1,0 +1,76 @@
+DCML                    DCML regression estimator
+INVTR2                  Robust R^2 coefficient of determination
+MMPY                    MM regression estimator using Pen~a-Yohai
+                        candidates
+SMPY                    SM regression estimator using Pen~a-Yohai
+                        candidates
+alcohol                 Alcohol data
+algae                   Algae data
+biochem                 Biochem data
+bisquare                Tuning parameter the rho loss functions
+breslow.dat             Breslow Data
+bus                     Bus data
+cov.dcml                Approximate covariance matrix of the DCML
+                        regression estimator.
+covClassic              Classical Covariance Estimation
+covRob                  Robust multivariate location and scatter
+                        estimators
+covRobMM                MM robust multivariate location and scatter
+                        estimator
+covRobRocke             Rocke's robust multivariate location and
+                        scatter estimator
+drop1.lmrobdetMM        RFPE of submodels of an 'lmrobdetMM' fit
+fastmve                 Minimum Volume Ellipsoid covariance estimator
+flour                   Flour data
+glass                   Glass data
+hearing                 Hearing data
+huber                   Tuning parameter the rho loss functions
+image                   Image data
+initPP                  Robust multivariate location and scatter
+                        estimators
+leuk.dat                Leukemia Data
+lmrobM                  Robust estimators for linear regression with
+                        fixed designs
+lmrobM.control          Tuning parameters for lmrobM
+lmrobdet.control        Tuning parameters for lmrobdetMM and
+                        lmrobdetDCML
+lmrobdetDCML            Robust Distance Constrained Maximum Likelihood
+                        estimators for linear regression
+lmrobdetLinTest         Robust likelihood ratio test for linear
+                        hypotheses
+lmrobdetMM              Robust Linear Regression Estimators
+lmrobdetMM.RFPE         Robust Final Prediction Error
+locScaleM               Robust univariate location and scale
+                        M-estimators
+logregBY                Bianco and Yohai estimator for logistic
+                        regression
+logregWBY               Bianco and Yohai estimator for logistic
+                        regression
+logregWML               Weighted likelihood estimator for the logistic
+                        model
+mineral                 Mineral data
+mopt                    Tuning parameter for a rho function in the
+                        modified (asymptotic bias-) optimal family
+moptv0                  Tuning parameter for a rho function in the
+                        modified (asymptotic bias-) optimal family
+neuralgia               Neuralgia data
+oats                    Oats data
+opt                     Tuning parameter for a rho function in the
+                        (asymptotic bias-) optimal family
+optv0                   Tuning parameter for a rho function in the
+                        (asymptotic bias-) optimal family
+pcaRobS                 Robust principal components
+prcompRob               Robust Principal Components Cont'd
+refine.sm               IRWLS iterations for S- or M-estimators
+resex                   Resex data
+rho                     Rho functions
+rhoprime                The first derivative of the rho function
+rhoprime2               The second derivative of the rho function
+scaleM                  M-scale estimator
+shock                   Shock data
+skin                    Skin data
+stackloss               Stackloss data
+step.lmrobdetMM         Robust stepwise using RFPE
+vehicle                 Vehicle data
+waste                   Waste data
+wine                    Wine data

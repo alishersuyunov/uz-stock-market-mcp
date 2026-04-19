@@ -1,0 +1,58 @@
+Chat                    The Chat object
+Content                 Content types received from and sent to a
+                        chatbot
+Provider                A chatbot provider
+Turn                    A user, assistant, or system turn
+Type                    Type definitions for function calling and
+                        structured data extraction.
+batch_chat              Submit multiple chats in one batch
+chat                    Chat with any provider
+chat_anthropic          Chat with an Anthropic Claude model
+chat_aws_bedrock        Chat with an AWS bedrock model
+chat_azure_openai       Chat with a model hosted on Azure OpenAI
+chat_cloudflare         Chat with a model hosted on CloudFlare
+chat_databricks         Chat with a model hosted on Databricks
+chat_deepseek           Chat with a model hosted on DeepSeek
+chat_github             Chat with a model hosted on the GitHub model
+                        marketplace
+chat_google_gemini      Chat with a Google Gemini or Vertex AI model
+chat_groq               Chat with a model hosted on Groq
+chat_huggingface        Chat with a model hosted on Hugging Face
+                        Serverless Inference API
+chat_mistral            Chat with a model hosted on Mistral's La
+                        Platforme
+chat_ollama             Chat with a local Ollama model
+chat_openai             Chat with an OpenAI model
+chat_openai_compatible
+                        Chat with an OpenAI-compatible model
+chat_openrouter         Chat with one of the many models hosted on
+                        OpenRouter
+chat_perplexity         Chat with a model hosted on perplexity.ai
+chat_portkey            Chat with a model hosted on PortkeyAI
+chat_snowflake          Chat with a model hosted on Snowflake
+chat_vllm               Chat with a model hosted by vLLM
+claude_file_upload      Upload, downloand, and manage files for Claude
+claude_tool_web_fetch   Claude web fetch tool
+claude_tool_web_search
+                        Claude web search tool
+content_image_url       Encode images for chat input
+content_pdf_file        Encode PDFs content for chat input
+contents_text           Format contents into a textual representation
+create_tool_def         Create metadata for a tool
+df_schema               Describe the schema of a data frame, suitable
+                        for sending to an LLM
+google_tool_web_fetch   Google URL fetch tool
+google_tool_web_search
+                        Google web search (grounding) tool
+google_upload           Upload a file to gemini
+interpolate             Helpers for interpolating data into prompts
+live_console            Open a live chat application
+openai_tool_web_search
+                        OpenAI web search tool
+parallel_chat           Submit multiple chats in parallel
+params                  Standard model parameters
+token_usage             Report on token usage in the current session
+tool                    Define a tool
+tool_annotations        Tool annotations
+tool_reject             Reject a tool call
+type_boolean            Type specifications

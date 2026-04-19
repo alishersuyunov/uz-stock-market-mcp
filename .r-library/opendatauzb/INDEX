@@ -1,0 +1,16 @@
+RegisteredSecurities    Downloads a full list of registered securities
+                        with ISIN and CFI codes
+availableDatasets       Available Datasets
+currentBidsAsks         Obtaining current Bids and Asks for stocks
+getAllIssuers           Downloads a full list of issuers
+getData                 Downloading Datasets
+getDividends            Downloads a calendar of dividends
+getMarketIndex          Downloading Market Indices (Uzbekistan
+                        Composite Index, UCI)
+getSecurities           Downloading the securities listed on the
+                        Republican Stock Exchange "Toshkent"
+getTicker               Downloading Stock Market Data
+get_FX                  Downloading Foreign Currency Exchange Data
+ipo                     Obtaining schedule of public offerings
+                        (IPO/SPO/PO (the government shares))
+lookup_by_id            Looking up the dataset name by dataset id
