@@ -1,8 +1,0 @@
-mcptools-package	mcptools-package
-client	client
-mcptools	mcptools-package
-mcp_client	client
-mcp_server	server
-mcp_session	server
-mcp_tools	client
-server	server
