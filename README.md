@@ -16,18 +16,6 @@ The server exposes these stock-market tools:
 - `all_issuers`
 - `dividends`
 
-Dataset portal functions from `data.gov.uz` / `data.egov.uz` are intentionally excluded.
-
-`fx_rates` specifically pulls exchange-rate history from the Republican Currency Exchange of Uzbekistan, not from the stock exchange endpoints.
-
-## Prerequisites
-
-- Windows with R 4.4.2 or newer
-- `Rscript.exe` on `PATH`, or the full path to it available locally
-- Internet access for bootstrap
-
-The examples below assume you are running commands from the repository root.
-
 ## Bootstrap
 
 Install the MCP dependencies and `opendatauzb`:
