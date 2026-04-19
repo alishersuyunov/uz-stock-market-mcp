@@ -1,0 +1,46 @@
+# Repo-local R library created by scripts/bootstrap.R
+.r-library/
+
+# R session and user-specific files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local environment files
+.Renviron
+
+# R package build/check artifacts
+*.Rcheck/
+*.tar.gz
+*.tgz
+*.zip
+00LOCK*/
+
+# Native compilation artifacts
+src/*.o
+src/*.so
+src/*.dll
+src/*.a
+src/*.d
+src/*.gcda
+src/*.gcno
+src/*.exe
+
+# Common cache directories
+.Rcache/
+.quarto/
+
+# Editor and OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+.env
+.venv/
+__pycache__/
+node_modules/
+dist/
+build/
+*.pyc
