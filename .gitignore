@@ -1,5 +1,6 @@
 # Repo-local R library created by scripts/bootstrap.R
 .r-library/
+.claude/
 
 # R session and user-specific files
 .Rhistory
